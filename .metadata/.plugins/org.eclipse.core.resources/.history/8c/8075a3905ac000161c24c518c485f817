@@ -19,7 +19,6 @@ public static void main(String[] args) {
 	}else{
 			System.out.println(year+"년은 평년입니다.");
 		}
-		sc.close();
 		
 	}
 }
